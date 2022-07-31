@@ -6,8 +6,8 @@ target/
 .bsp/
 project/project/
 project/target/
-.vscode
 .metals
+.vscode
 .bloop
 project/.bloop
 project/metals.sbt
