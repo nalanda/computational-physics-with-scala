@@ -9,5 +9,6 @@ project/target/
 .metals
 .vscode
 .bloop
-project/.bloop
 project/metals.sbt
+project/.bloop
+
